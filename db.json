@@ -1,4 +1,5 @@
-[
+{
+    "calzado": [
     {
         "name": "Zapatilla 1-XFK",
         "price": 5000,
@@ -86,3 +87,4 @@
         "color": "blanco"
     }
 ] 
+}
