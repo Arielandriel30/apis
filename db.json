@@ -1,11 +1,88 @@
-{
-  "posts": [
+
     {
-      "id": 1,
-      "title": "hello"
+        "name": "Zapatilla 1-XFK",
+        "price": 5000,
+        "type": "Zapatillas",
+        "image": "zapatilla_1.png",
+        "talle": "primero"
+
+        
+    },
+    {
+        "name": "Zapatilla 2000-X",
+        "price": 9800,
+        "type": "Botas",
+        "image": "zapatilla_2.png",
+        "talle": "Primero"
+
+    },
+    {
+        "name": "Zapatilla 3 Run",
+        "price": 6500,
+        "type": "Zapatos",
+        "image": "zapatilla_3.png",
+        "color": "negro"
+    },
+    {
+        "name": "Zapatilla 3 Run",
+        "price": 6500,
+        "type": "Zapatos",
+        "image": "zapatilla_3.png",
+        "color": "negro"
+    },
+    {
+        "name": "Zapatilla 1-XFK",
+        "price": 5000,
+        "type": "Zapatillas",
+        "image": "zapatilla_1.png"
+    },
+    {
+        "name": "Zapatilla 2000-X",
+        "price": 9800,
+        "type": "Botas",
+        "image": "zapatilla_2.png",
+        "talle": "Primero"
+    },
+    {
+        "name": "Zapatilla 1-XFK",
+        "price": 5000,
+        "type": "Zapatillas",
+        "image": "zapatilla_1.png",
+        "color": "blanco"
+
+    },
+    {
+        "name": "Zapatilla 3 Run",
+        "price": 6500,
+        "type": "Zapatos",
+        "image": "zapatilla_3.png"
+    },
+    {
+        "name": "Zapatilla 2000-X",
+        "price": 9800,
+        "type": "Botas",
+        "image": "zapatilla_2.png",
+        "size": "Primero"
+    },
+    {
+        "name": "Zapatilla 3 Run",
+        "price": 6500,
+        "type": "Zapatos",
+        "image": "zapatilla_3.png",
+        "size": "Primero"
+    },
+    {
+        "name": "Zapatilla 2000-X",
+        "price": 9800,
+        "type": "Botas",
+        "image": "zapatilla_2.png",
+        "color": "blanco"
+    },
+    {
+        "name": "Zapatilla 1-XFK",
+        "price": 5000,
+        "type": "Zapatillas",
+        "image": "zapatilla_1.png",
+        "color": "blanco"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+] 
