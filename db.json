@@ -1,4 +1,4 @@
-
+[
     {
         "name": "Zapatilla 1-XFK",
         "price": 5000,
@@ -62,14 +62,14 @@
         "price": 9800,
         "type": "Botas",
         "image": "zapatilla_2.png",
-        "size": "Primero"
+        "talle": "Primero"
     },
     {
         "name": "Zapatilla 3 Run",
         "price": 6500,
         "type": "Zapatos",
         "image": "zapatilla_3.png",
-        "size": "Primero"
+        "talle": "Primero"
     },
     {
         "name": "Zapatilla 2000-X",
